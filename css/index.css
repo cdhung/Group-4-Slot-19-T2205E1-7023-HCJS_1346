@@ -11,6 +11,9 @@ body {
 h1 {
    text-transform: uppercase;
 }
+#header{
+  margin-top: 64px;
+}
 
 h1 a{
   color: #00ab95;
