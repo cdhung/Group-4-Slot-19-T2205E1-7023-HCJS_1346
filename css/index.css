@@ -31,11 +31,20 @@ td {
   background-color: #fff;
   padding: 10px;
   margin-bottom: 3px;
-  text-align: left;}
+  text-align: left;
+}
 
 .blank {
   background: #f7f7f7;}
 
 .member-list{
     margin-top: 50px;
+}
+
+.member-list a{
+  color: blue;
+}
+
+.member-list a:hover{
+  color: #ed6c7b;
 }
