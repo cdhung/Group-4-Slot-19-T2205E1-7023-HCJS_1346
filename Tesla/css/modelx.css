@@ -1,0 +1,30 @@
+
+.model-shadow-title-modelx {
+    display: inline-block;
+    font-size: 3.6rem;
+    font-weight: bold;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+
+.model-shadow-title-internal {
+    display: inline-block;
+    font-size: 3.6rem;
+    font-weight: bold;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.model-shadow-title-home{
+    display: inline-block;
+    font-size: 3.6rem;
+    font-weight: bold;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    color: #fff;
+}
+
+.more h3,
+.more p{
+    padding-bottom: 75px;
+}
